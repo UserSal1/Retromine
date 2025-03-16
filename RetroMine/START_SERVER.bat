@@ -1,0 +1,1 @@
+java -Xmx4050M -Xms4050M -jar server.jar -nogui
